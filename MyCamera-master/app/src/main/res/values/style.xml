@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ThemeOverlay.AppCompat.ActionBar." parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="Base.Widget.AppCompat.PopupMenu." parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
